@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: rgb(216, 234, 10);
+border-radius: 50px;
+border: none;
+
+}
+button{
+
+    width: 50px;
+    height: 30px;
+}
+#blac{
+    background-color: black;
+    color: aliceblue;
+}
+#ylow{
+    background-color: rgb(85, 85, 85);
+    color: aliceblue;
+}
+
+
+.blac{
+    width: 40px;
+    height: 50px;
+  
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    font-size: 7rem;
+    font-weight: 500px;
+    color: azure;
+}
